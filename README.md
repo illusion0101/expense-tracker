@@ -1,1 +1,3 @@
-# expense-tracker
+## expense-tracker
+
+💸💰
